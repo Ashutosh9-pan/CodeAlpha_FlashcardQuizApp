@@ -51,16 +51,16 @@ git clone https://github.com/Ashutosh9-pan/FlashcardQuizApp.git
 ![Splash Screen](screenshots/splash.jpg)
 
 ### Main Screen (Light Mode)
-![Light Mode](screenshots/light-mode.jpg)
+![Light Mode](screenshots/light-mode.jpeg)
 
 ### Main Screen (Dark Mode)
-![Dark Mode](screenshots/dark-mode.jpg)
+![Dark Mode](screenshots/dark-mode.jpeg)
 
 ### Add Flashcard
-![Add Flashcard](screenshots/add-flashcard.jpg)
+![Add Flashcard](screenshots/add-flashcard.jpeg)
 
 ### Delete Confirmation
-![Delete Confirmation](screenshots/delete-dialog.jpg)
+![Delete Confirmation](screenshots/delete-dialog.jpeg)
 
 ## 👨‍💻 Developed By
 
