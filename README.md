@@ -48,19 +48,19 @@ git clone https://github.com/Ashutosh9-pan/FlashcardQuizApp.git
 ## 📸 Screenshots
 
 ### Splash Screen
-![Splash Screen](screenshots/splash.jpg)
+<img src="splash.jpeg" width="300"/>
 
 ### Main Screen (Light Mode)
-![Light Mode](screenshots/light-mode.jpeg)
+<img src="light-mode.jpeg" width="300"/>
 
 ### Main Screen (Dark Mode)
-![Dark Mode](screenshots/dark-mode.jpeg)
+<img src="dark-mode.jpeg" width="300"/>
 
 ### Add Flashcard
-![Add Flashcard](screenshots/add-flashcard.jpeg)
+<img src="add-flashcard.jpeg" width="300"/>
 
-### Delete Confirmation
-![Delete Confirmation](screenshots/delete-dialog.jpeg)
+### Delete Confirmation Dialog
+<img src="delete-dialog.jpeg" width="300"/>
 
 ## 👨‍💻 Developed By
 
