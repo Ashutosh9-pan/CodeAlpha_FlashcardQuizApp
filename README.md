@@ -1,73 +1,100 @@
 # 📚 Flashcard Quiz App
 
-An Android Flashcard Quiz App built using Java, SQLite, and Android Studio as part of the CodeAlpha Android Development Internship.
+An interactive **Android Flashcard Quiz App** developed as part of the **CodeAlpha Android Development Internship**.
+
+The application allows users to create, manage, and review flashcards through a clean and simple interface. It supports persistent local storage using SQLite and includes both light and dark mode.
 
 ## ✨ Features
 
-- Create Flashcards
-- View Flashcards
-- Edit Flashcards
-- Delete Flashcards
-- Previous & Next Navigation
-- Show/Hide Answer
-- SQLite Database Storage
-- Dark Mode Support
-- Material Design UI
-- Splash Screen
+* Create new flashcards
+* View saved flashcards
+* Edit existing flashcards
+* Delete flashcards with confirmation
+* Show/Hide flashcard answers
+* Previous and Next flashcard navigation
+* SQLite database for local data storage
+* Dark Mode support
+* Material Design based UI
+* Splash Screen
+* Responsive and user-friendly interface
 
 ## 🛠️ Tech Stack
 
-- Java
-- Android Studio
-- SQLite
-- Material Design
+* **Java**
+* **Android Studio**
+* **SQLite**
+* **Material Design**
+* **Gradle**
 
 ## 📂 Project Structure
 
-```
+```text
 app/
 ├── java/
 ├── res/
-├── AndroidManifest.xml
+└── AndroidManifest.xml
 ```
 
 ## 🚀 Installation
 
-1. Clone the repository
+### 1. Clone the repository
 
+```bash
+git clone https://github.com/Ashutosh9-pan/CodeAlpha_FlashcardQuizApp.git
 ```
-git clone https://github.com/Ashutosh9-pan/FlashcardQuizApp.git
-```
 
-2. Open in Android Studio
+### 2. Open the project
 
-3. Sync Gradle
+Open **Android Studio** and select:
 
-4. Run the application
+`Open an Existing Project`
 
-## 📸 Screenshots
+Then select the cloned project folder.
 
-### Splash Screen
-<img src="splash.jpeg" width="300"/>
+### 3. Sync Gradle
 
-### Main Screen (Light Mode)
-<img src="light-mode.jpeg" width="300"/>
+Allow Android Studio to complete the Gradle synchronization.
 
-### Main Screen (Dark Mode)
-<img src="dark-mode.jpeg" width="300"/>
+### 4. Run the application
 
-### Add Flashcard
-<img src="add-flashcard.jpeg" width="300"/>
+Connect an Android device or start an emulator and click **Run**.
 
-### Delete Confirmation Dialog
-<img src="delete-dialog.jpeg" width="300"/>
+## 📱 Application Screens
+
+The project includes screenshots demonstrating:
+
+* Splash Screen
+* Main Screen – Light Mode
+* Main Screen – Dark Mode
+* Add Flashcard Screen
+* Edit Flashcard functionality
+* Delete Confirmation Dialog
+
+## 💡 Key Learning Outcomes
+
+Through this project, I strengthened my understanding of:
+
+* Android application development using Java
+* SQLite database integration
+* CRUD operations
+* Android Activity and UI lifecycle
+* Material Design principles
+* Dark and Light theme implementation
+* Local data persistence
+* User input handling and validation
+* Debugging and application testing
+* Git and GitHub version control
+
+## 🎯 Internship Project
+
+This project was developed as part of my **CodeAlpha Internship**, with a focus on practical Android development and implementing real-world application features.
 
 ## 👨‍💻 Developed By
 
 **Ashutosh Panwar**
 
-CodeAlpha Android Development Internship Project
+CodeAlpha Internship Project
 
 ## 📄 License
 
-This project is developed for learning and internship purposes.
+This project is developed for educational, learning, and internship purposes.
